@@ -1,19 +1,37 @@
 <!--Section 1: Introduce yourself-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I am Chikadibia Ezeh. As a skilled Azure Data Engineer and Microsoft 365 Technical Support Engineer, I bring over 3 years of hands-on experience designing scalable data solutions and delivering expert support for enterprise cloud environments. My dual expertise lies in optimizing data-driven architectures on Microsoft Azure while ensuring seamless performance and security across Microsoft 365 platforms.
+
+In Data Engineering, I specialize in building and optimizing ETL/ELT pipelines, leveraging technologies like Azure Data Factory, Databricks, Delta Lake, and Spark Streaming to transform massive datasets into actionable insights. With a deep understanding of data warehousing, cloud infrastructure, and AI-driven analytics, I help organizations unlock the full potential of their data for advanced business intelligence and decision-making.
+
+On the Microsoft 365 front, I excel at managing and troubleshooting Exchange Online, Teams, SharePoint, and OneDrive. From PowerShell automation to hybrid deployments and security compliance, I ensure smooth operations while empowering teams to leverage M365 Copilot and AI-driven tools for enhanced productivity and streamlined workflows.
+
+✅ Core Competencies Include:
+- Azure Data Engineering & Cloud Architecture (Azure Data Factory, Synapse, Microsoft Fabric)
+- Big Data Processing (Spark, PySpark, Delta Lake, Databricks)
+- Data Modeling, ELT/ETL Pipelines & Automation
+- M365 Administration (Exchange Online, Teams, SharePoint, Azure AD)
+- Power BI & Data Visualization for Business Intelligence
+- Security & Compliance (Unity Catalog, EOP, Defender for Office 365)
+- AI Integration & M365 Copilot Optimization
+
+I am passionate about staying at the forefront of emerging technologies, and continuously refining my technical expertise to deliver innovative, efficient solutions. I thrive in dynamic environments where I can bridge the gap between data engineering and cloud support, driving operational excellence and delivering measurable business value.
+
+ I welcome new opportunities and conversations, let's connect to discuss how I can add value to your team or project!
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+**- ✅ Data Engineering.**
+I specialize in building and optimizing ETL/ELT pipelines, leveraging technologies like Azure Data Factory, Databricks, Delta Lake, and Spark Streaming to transform massive datasets into actionable insights. With a deep understanding of data warehousing, cloud infrastructure, and AI-driven analytics, I help organizations unlock the full potential of their data for advanced business intelligence and decision-making.
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Microsoft 365 Technical Support.**
+I manage and troubleshoot Exchange Online, Teams, SharePoint, and OneDrive. From PowerShell automation to hybrid deployments and security compliance, I ensure smooth operations while empowering teams to leverage M365 Copilot and AI-driven tools for enhanced productivity and streamlined workflows.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Technical Training.**
+I run a technical consulting and training offering comprehensive training programs in Azure Data Engineering and M365 Technical troubleshooting. 
 
 
 <!--Section 2: List 3-4 key projects-->
