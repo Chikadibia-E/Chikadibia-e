@@ -39,29 +39,13 @@ I run a technical consulting and training offering comprehensive training progra
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**1. Netflix Data Engineering Project.**
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+[Netflix Data Engineering Project](https://github.com/Chikadibia-E/Netflix_Project_Azure_Data_Engineering)
 
+**2. Bing_News_Data_Analytics (WIP).**
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+[Bing_News_Data_Analytics.](https://github.com/Chikadibia-E/Bing_News_Data_Analytics)
 
 
 ## CONTACT DETAILS
@@ -71,28 +55,27 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:e_chikadibia@outlook.com">e_chikadibia@outlook.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(+234) 814-459-9370</td>
+     <td>(+234) 907-088-7420</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://github.com/Chikadibia-E/CV/blob/main/CHIKADIBIA%20FRIDAY%20EZEH%20-%20AZURE%20DATA%20ENGR%20CV.pdf">Download My Azure Data Engineering CV</a></td>
+     <td><a href="https://github.com/Chikadibia-E/CV/blob/main/CHIKADIBIA%20FRIDAY%20EZEH%20-M365%20Engineer.pdf">Download My Microsoft 365 Technical Support CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/e-chikadibia">See My LinkedIn Profile</a></td>
     </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
+    
   </tbody>
 </table>
 
